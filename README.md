@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poulamim91
 - 👀 I’m interested in solving complex stats problems
-- 🌱 I’m currently learning various R packages (always) and new developments in DinD modeling.
+- 🌱 I’m currently learning cool things to do in Python and new developments in causal inference (sepcially for event data).
 - 💞️ I’m looking to collaborate on developments for causal inference and survey sampling/weighting.
 <!---- 📫 How to reach me ...--->
 
